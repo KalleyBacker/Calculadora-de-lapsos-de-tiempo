@@ -2,11 +2,9 @@
 
 
 
-#!/bin/env bash 
-
-#Author https://www.linkedin.com/in/juan-carlos-morla-reyes-6410a91b3/
-version 1.0.000 
-bug al suminitrar fechas con dias diferentes explota.
+# Author https://www.linkedin.com/in/juan-carlos-morla-reyes-6410a91b3/
+# version 1.0.000 
+# bug al suminitrar fechas con dias diferentes explota.
 
 
 NAME 
