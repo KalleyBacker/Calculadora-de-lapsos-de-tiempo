@@ -7,17 +7,17 @@
 # bug al suminitrar fechas con dias diferentes explota.
 
 
-NAME 
-#       Calulo_horas_con_conversion_segundos.sh - resta la diferencia de horas
+# NAME 
+       Calulo_horas_con_conversion_segundos.sh - resta la diferencia de horas
 
-SYNOPSIS
-#		source $(pwd)/lib/Calulo_horas_con_conversion_segundos && Start_time-End_time ['PARAMETRO_$1'] ['PARAMETRO_$2']
-#       PARAMETRO_$1_$2 'YYYY-MM-DD HH:MM:SS'
-#       function '2022-12-2 00:05:44' '2022-12-2 00:10:57'
-#
-DESCRIPTION
-#        Calulo_horas_con_conversion_segundos script que incorpora funciones destinadas adherirse a 
-#		 programas externos para agregarle la funcionalidad de restar tiempos de forma precisa.
+# SYNOPSIS
+		source $(pwd)/lib/Calulo_horas_con_conversion_segundos && Start_time-End_time ['PARAMETRO_$1'] ['PARAMETRO_$2']
+       PARAMETRO_$1_$2 'YYYY-MM-DD HH:MM:SS'
+       function '2022-12-2 00:05:44' '2022-12-2 00:10:57'
+
+# DESCRIPTION
+        Calulo_horas_con_conversion_segundos script que incorpora funciones destinadas adherirse a 
+		 programas externos para agregarle la funcionalidad de restar tiempos de forma precisa.
 
 
 Tiempo Unix (timetamps)
