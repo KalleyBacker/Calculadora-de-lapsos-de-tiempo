@@ -8,7 +8,7 @@
 
 
 # NAME 
-       Calulo_horas_con_conversion_segundos.sh - resta la diferencia de horas
+       Calulo_horas_con_conversion_segundos.sh - resta la diferencia entre horas
 
 # SYNOPSIS
 		source $(pwd)/lib/Calulo_horas_con_conversion_segundos && Start_time-End_time ['PARAMETRO_$1'] ['PARAMETRO_$2']
