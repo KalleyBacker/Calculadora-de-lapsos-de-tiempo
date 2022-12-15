@@ -11,7 +11,7 @@
        Calulo_horas_con_conversion_segundos.sh - resta la diferencia entre horas
 
 # SYNOPSIS
-		source $(pwd)/lib/Calulo_horas_con_conversion_segundos && Start_time-End_time ['PARAMETRO_$1'] ['PARAMETRO_$2']
+       $ source $(pwd)/lib/Calulo_horas_con_conversion_segundos && Start_time-End_time ['PARAMETRO_$1'] ['PARAMETRO_$2']
        PARAMETRO_$1_$2 'YYYY-MM-DD HH:MM:SS'
        function '2022-12-2 00:05:44' '2022-12-2 00:10:57'
 
